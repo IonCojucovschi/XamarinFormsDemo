@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{F873B708-F65D-4602-BC77-5B5A2E16E850}|Default">
+  <MonoDevelop.Ide.ItemProperties.XamarinFormsStart FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.XamarinFormsStart.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.3FF0FA9F-427C-473D-8E05-1C4173EF1A31" FirstBuild="True">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.XamarinFormsStart.iOS>
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.ItemProperties.XamarinFormsStart.Droid FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
