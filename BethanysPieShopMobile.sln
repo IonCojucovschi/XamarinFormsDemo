@@ -7,7 +7,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{3F027BA0-8F3
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MobileApps", "MobileApps", "{3EF09D23-260A-4A00-A74C-FDAD7B57F753}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BethanysPieShop.API", "BethanysPieShop.API\BethanysPieShop.API.csproj", "{EF5CFD08-FAB4-4819-9E68-33CB22F63826}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BethanysPieShop.API", "BethanysPieShop.API\BethanysPieShop.API.csproj", "{EF5CFD08-FAB4-4819-9E68-33CB22F63826}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BethanysPieShop.Mobile.Android", "BethanysPieShop.Mobile\BethanysPieShop.Mobile.Android\BethanysPieShop.Mobile.Android.csproj", "{F149A65C-34A0-4380-9630-3FD066A0A3AA}"
 EndProject
@@ -15,7 +15,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BethanysPieShop.Mobile.iOS"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BethanysPieShop.Mobile.UWP", "BethanysPieShop.Mobile\BethanysPieShop.Mobile.UWP\BethanysPieShop.Mobile.UWP.csproj", "{902EC937-B35F-438C-8724-3D771244782E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BethanysPieShop.Mobile.Core", "BethanysPieShop.Mobile\BethanysPieShop.Mobile\BethanysPieShop.Mobile.Core.csproj", "{6FE48C08-EA99-4B8E-B1F7-892C339CF1DF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BethanysPieShop.Mobile.Core", "BethanysPieShop.Mobile\BethanysPieShop.Mobile\BethanysPieShop.Mobile.Core.csproj", "{6FE48C08-EA99-4B8E-B1F7-892C339CF1DF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
